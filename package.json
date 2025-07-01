@@ -2,7 +2,7 @@
   "name": "used-car-search",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPO_NAME",
+  "homepage": "https://DragonKrakow.github.io/uzywanyauta",
   "dependencies": {
     "react": "^18.0.0",
     "react-dom": "^18.0.0"
