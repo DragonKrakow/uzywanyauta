@@ -1,0 +1,19 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #eee;
+}
+h1 {
+  text-align: center;
+}
+.car-search {
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 0 12px #ccc;
+}
+label {
+  display: block;
+  margin: 10px 0 5px 0;
+}
+select, input[type="range"] {
+  margin: 3px 0 10px 0;
+}
